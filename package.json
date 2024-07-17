@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "cumulative-distribution-function": "^2.1.1"
+  }
+}

@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Department,Joining Date,Salary,Performance Score,Email
+1,Alice,23,F,Engineering,2022-01-15,55000,85,alice@example.com
+2,Bob,30,M,Marketing,2020-05-20,60000,75,bob@example.com
+3,Charlie,27,M,Engineering,2021-03-12,70000,90,charlie@example.com
+4,David,35,M,HR,2018-11-02,50000,65,david@example.com
+5,Eva,29,F,Finance,2019-08-25,72000,95,eva@example.com
+6,Frank,32,M,Marketing,2021-01-17,65000,70,frank@example.com
+7,Grace,28,F,Engineering,2020-06-10,58000,80,grace@example.com
+8,Hank,40,M,Finance,2015-04-01,75000,60,hank@example.com
+9,Ivy,25,F,HR,2022-02-05,48000,85,ivy@example.com
+10,Jack,38,M,Engineering,2017-07-15,78000,88,jack@example.com
