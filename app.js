@@ -54,9 +54,6 @@ if(!majors[row.Department]){
 }
 
 
-
-
-
 fs.createReadStream("./data.csv").
 pipe(parse({ columns: true, from_line: 1 }))
 .on ('data', function(row){
